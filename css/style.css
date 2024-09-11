@@ -1,0 +1,15 @@
+/* Intestazione della pagina */
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color: rgb(174, 213, 243);
+    height: 130px;
+}
+
+#logo{
+    margin-top: 35px;
+    margin-left: 10px;
+}
