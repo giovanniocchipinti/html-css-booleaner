@@ -1,0 +1,96 @@
+/* Intestazione della pagina */
+
+body{
+    margin: 0;
+    font-size: 17px;
+}
+
+header{
+    background-color: rgb(174, 213, 243);
+    background-image: url(../img/pattern.png); 
+    height: 155px;
+}
+
+#logo{
+    margin-top: 55px;
+    margin-left: 10px;
+}
+
+/* Corpo della pagina */
+
+main{
+    margin: 15px;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+#author{
+    margin-top: 0;
+    color: gray; 
+    line-height: 1;
+    font-size: 22px;
+}
+
+#date{
+    font-weight: 100;
+    font-size: 16px;
+}
+
+#booleaner{
+    color: rgb(112, 150, 252);
+}
+
+#img-description{
+    line-height: 1;
+    margin-top: 0;
+    font-size: 15px;
+}
+
+.yellow-text{
+    background-color: yellow;
+}
+
+ul{
+    padding: 15px;
+}
+ /* Tabella */
+
+thead tr{
+    background-color: rgb(138, 165, 248);
+    color: white;   
+}
+
+thead tr th{
+    width: 25%;
+    text-align: left;
+}
+
+#last-column{
+    width: 75%;
+}
+
+td{
+    text-align: left;
+}
+
+.dark-row{
+    background-color: rgb(224, 229, 241);
+}
+
+
+/* Piede della pagina */
+
+#copyright{
+    text-align: center;
+    background-color: rgb(56, 60, 105);
+    margin-bottom: 0;
+    margin-top: 50px;
+    color: white;
+    line-height: 4;
+    font-size: 15px;
+}
+
