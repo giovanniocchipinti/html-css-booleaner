@@ -56,3 +56,25 @@ h1{
 ul{
     padding: 15px;
 }
+
+thead tr{
+    background-color: rgb(138, 165, 248);
+    color: white;   
+}
+
+thead tr th{
+    width: 25%;
+    text-align: left;
+}
+
+#last-column{
+    width: 75%;
+}
+
+td{
+    text-align: left;
+}
+
+.dark-row{
+    background-color: rgb(224, 229, 241);
+}
