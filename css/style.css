@@ -80,14 +80,16 @@ td{
     background-color: rgb(224, 229, 241);
 }
 
+
 /* Piede della pagina */
 
 #copyright{
     text-align: center;
     background-color: rgb(56, 60, 105);
     margin-bottom: 0;
+    margin-top: 50px;
     color: white;
-    line-height: 3;
+    line-height: 4;
     font-size: 15px;
 }
 
