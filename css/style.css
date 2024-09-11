@@ -2,6 +2,7 @@
 
 body{
     margin: 0;
+    font-size: 19px;
 }
 
 header{
@@ -28,10 +29,9 @@ h1{
 
 #author{
     margin-top: 0;
-    font-size: 22px;
-    color: gray;
+    color: gray; 
     line-height: 1;
-    
+    font-size: 22px;
 }
 
 #date{
@@ -41,4 +41,18 @@ h1{
 
 #booleaner{
     color: rgb(112, 150, 252);
+}
+
+#img-description{
+    line-height: 1;
+    margin-top: 0;
+    font-size: 16px;
+}
+
+#yellow-text{
+    background-color: yellow;
+}
+
+ul{
+    padding: 15px;
 }
